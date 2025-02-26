@@ -1,9 +1,9 @@
 public class VariablesAndCaseSensitivity {
     public static void main (String[] args ) {
-        int studentsAge = 18;
-        double itemsPrice = 30.99;
-        String studentsName = "Nasser";
-        int counter = 13;
+        int studentsAge = 20;
+        double itemsPrice = 29.99;
+        String studentsName = "Alice";
+        int counter = 10;
         int Counter = 20;
         System.out.println ("Student Age: " + studentsAge);
         System.out.println ("items Price: $" + itemsPrice);
