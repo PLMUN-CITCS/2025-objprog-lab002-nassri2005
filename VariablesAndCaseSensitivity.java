@@ -1,4 +1,4 @@
-public class laboratory2 {
+public class VariablesAndCaseSensitivity {
     public static void main (String[] args ) {
         int studentsAge = 18;
         double itemsPrice = 30.99;
